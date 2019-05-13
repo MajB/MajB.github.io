@@ -1,2 +1,2 @@
-# clug_presentation
+# RexWebsite
 Test web site for CLUG presentation
